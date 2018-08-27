@@ -14,7 +14,7 @@ Education
   * First Class Honours. University of Surrey, Guildford, UK.
   * Dissertation:  *An In-depth Analysis on the Recent Development of Deep Image Super-resolution*
 
-Work Experience
+Work Experiences
 ======
 * Summer Research Intern (June - August 2018)
   * Department of Computer Science, University of Surrey, Guildford, UK
@@ -76,6 +76,10 @@ Skills
   * Wireshark
   * LaTeX
   * Docker
+
+References
+=======
+Available upon request.
 
 ### Contact me
 
